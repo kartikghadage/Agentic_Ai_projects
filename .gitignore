@@ -1,4 +1,7 @@
 __pycache__/
 .venv/
 venv/
-
+.env
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal

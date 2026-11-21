@@ -1,0 +1,11 @@
+streamlit
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-mcp-adapters
+aiosqlite
+python-dotenv
+duckduckgo-search
+requests
